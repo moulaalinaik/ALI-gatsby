@@ -10,8 +10,8 @@ const AboutPage = () => (
     <SEO title="about" keywords={[`gatsby`, `application`, `react`]} />
     <div>
       <h1>About Ali</h1>
-      <p>This is sample site ,developed by Ali with gatsby</p>
-      <p>Blaa blaa blaaaaaaa.</p>
+      <p>About page, This is sample site ,developed by Ali with gatsby</p>
+      <p>About Blaa blaa blaaaaaaa.</p>
       <p>sir when will you start "ANGULAR"</p>
     </div>
   </Layout>
